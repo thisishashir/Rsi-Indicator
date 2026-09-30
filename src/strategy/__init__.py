@@ -1,0 +1,1 @@
+"""Configurable strategy signal generation."""
